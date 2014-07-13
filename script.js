@@ -1,3 +1,12 @@
+/*
+	facebook_search app for pages...
+	version:1.0
+
+	developed by :Cijo K.B
+	email:cijo.kb@gmail.com
+	
+*/
+
 window.onload=initialize;
 
 function initialize(){

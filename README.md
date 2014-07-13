@@ -1,7 +1,7 @@
 facebook_search
 ===============
 
-A simple web app for searching facebook pages,user..etc.
+A simple web app for searching facebook pages
 
 This is created using HTML5,css and pure javascript. 
 The data from the facebook is fetched by using the Graph API.
