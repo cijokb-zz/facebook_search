@@ -102,3 +102,8 @@ body{
 	background-color: #fff;
 }
 
+#github{
+	float:right;
+	margin-right: 10px;
+	color:#fff;
+}
